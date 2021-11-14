@@ -6,6 +6,5 @@ data class City(
 
 
 
-    //
-    //
+
 )
