@@ -3,4 +3,9 @@
     <string name="toast">toast</string>
     <string name="banner_image">banner image</string>
     <string name="text">Text</string>
+    <string name="result">Result</string>
+    <string name="a">a</string>
+    <string name="b">b</string>
+    <string name="first_text">Какой океан омывает восточное побережье США</string>
+    <string name="c">c</string>
 </resources>
